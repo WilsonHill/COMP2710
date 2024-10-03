@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wilsonhill/Desktop/Auburn/COMP-2710/Projects/project2",
+      "program": "/Users/wilsonhill/Desktop/Auburn/COMP-2710/Projects/project2/build/Debug/outDebug"
+    }
+  ]
+}
