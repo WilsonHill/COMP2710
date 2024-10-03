@@ -1,3 +1,10 @@
+// Wilson Hill
+// wlh0029
+//project2_Hill_wlh0029_v2.cpp
+// ----Compilation Instructions----
+// To compile this file use the following commands: g++ project2_Hill_wlh0029_v2.cpp then ./a.out
+//=============================================================================
+
 #include <iostream>
 #include <cstdlib>
 #include <cassert>
